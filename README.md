@@ -1,16 +1,30 @@
-## Hi there 👋
+# Vladislav Vankov
 
-<!--
-**vladka319/vladka319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**23‑year‑old crypto security enthusiast**
 
-Here are some ideas to get you started:
+* 🔒 In the past 6 months, participated in security contests on Sherlock, Cantina, Code4rena, and CodeHawks, uncovering over **40 valid issues**
+* 🏅 Currently ranked **Top 200** at Code4rena (2025 season)
+* 🐦 [Twitter](https://x.com/VankovVladislav)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Contests & Achievements
+
+| #  | Platform  | Competition / Report                                                                                       | Issues Found                                                                                                                                               | Placement                                                                                                                                            | Date         | Language     |          |
+| -- | --------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ | -------- |
+| 1  | Sherlock  | [vVv Launchpad – Investments & Token distribution](https://audits.sherlock.xyz/contests/647)               | [1 High](https://github.com/sherlock-audit/2024-11-vvv-exchange-update-judging/issues/242)                                                                 | 1st                                                                                                                                                  | Nov 17, 2024 | Solidity     |          |
+| 2  | Code4rena | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin)                                                 | [1 High](https://code4rena.com/audits/2024-12-lambowin/submissions/S-689)                                                                                  | —                                                                                                                                                    | Dec 9, 2024  | Solidity     |          |
+| 3  | Code4rena | [IQ AI](https://code4rena.com/audits/2025-01-iq-ai)                                                        | [1 Medium](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-698)                                                                                   | 8th                                                                                                                                                  | Feb 7, 2025  | Solidity     |          |
+| 4  | Code4rena | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron)                                              | [1 Medium](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-181)                                                                              | —                                                                                                                                                    | Feb 4, 2025  | Solidity     |          |
+| 5  | Code4rena | [THORWallet](https://code4rena.com/audits/2025-02-thorwallet)                                              | [1 High](https://code4rena.com/audits/2025-02-thorwallet/submissions/S-304), [1 Medium](https://code4rena.com/audits/2025-02-thorwallet/submissions/S-425) | 3rd                                                                                                                                                  | Feb 26, 2025 | Solidity     |          |
+| 6  | Cantina   | [BadgerDAO / badger-ebtc-bsm](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58)       | 1 High *(private)*                                                                                                                                         | —                                                                                                                                                    | Mar 12, 2025 | Solidity     |          |
+| 7  | Sherlock  | [Symmio – Staking & Vesting](https://audits.sherlock.xyz/contests/838)                                     | [1 Medium](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/344)                                                                  | —                                                                                                                                                    | Mar 10, 2025 | Solidity     |          |
+| 8  | Immunefi  | \[Audit Comp                                                                                               |  Yeet]\([https://immunefi.com/audit-competition/audit-comp-yeet/leaderboard/](https://immunefi.com/audit-competition/audit-comp-yeet/leaderboard/))        | [1 Critical](https://reports.immunefi.com/yeet/41831-sc-critical-miscalculation-of-excess-rewards-via-external-token-transfers-leads-to-contract-in) | —            | Mar 25, 2025 | Solidity |
+| 9  | Cantina   | [Mighty Finance / mighty-contracts](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) | 3 High, 1 Medium *(private)*                                                                                                                               | —                                                                                                                                                    | Apr 15, 2025 | Solidity     |          |
+| 10 | Cantina   | [Velvet Capital / velvet-v4](https://cantina.xyz/competitions/8cf9c7a0-a7a6-446a-8577-1e2c254eb5a8)        | 2 Medium *(private)*                                                                                                                                       | —                                                                                                                                                    | Apr 9, 2025  | Solidity     |          |
+| 11 | Cantina   | [Mystic Finance / mystic-monorepo](https://cantina.xyz/competitions/c160af78-28f8-47f7-9926-889b3864c6d8)  | 4 High, 1 Medium, 2 Low *(private)*                                                                                                                        | —                                                                                                                                                    | May 18, 2025 | Solidity     |          |
+| 12 | CodeHawks | [RAAC Core contracts](https://codehawks.cyfrin.io/c/2025-02-raac)                                          | 9 High, 10 Medium, 2 Low ([Report](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=1&sc=reward&sj=reward&t=report))                     | —                                                                                                                                                    | Feb 24, 2025 | Solidity     |          |
+
+---
+
+*Feel free to reach out if you’d like to collaborate or request an audit!*
